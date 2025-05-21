@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend:** Flutter (Dart) for cross-platform mobile development.
 - **Backend:** Qubic protocol for smart contracts and oracle integration.
