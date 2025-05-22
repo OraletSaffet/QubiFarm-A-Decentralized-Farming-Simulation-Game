@@ -7,7 +7,7 @@
 
 ##  Overview
 
-**QubiFarm** is a mobile farming simulation game that integrates decentralized technologies to offer players true ownership of in-game assets. By leveraging Qubic's smart contracts and oracle systems, QubiFarm introduces a dynamic, player-driven economy where real-world data influences gameplay.
+**QubiFarm** is a mobile farming simulation game that integrates decentralized technologies to offer players true ownership of in-game assets. QubiFarm showcases a real world application of blockchain technology in a highly accessible gaming context, lowering the barrier to entry for non-crypto users while highlighting the power of decentralized systems. The game allows players to manage and grow a digital farm planting crops, raising animals, and trading goods while enabling true digital ownership, decentralized asset trading, and real world data-driven gameplay.
 
 ---
 
