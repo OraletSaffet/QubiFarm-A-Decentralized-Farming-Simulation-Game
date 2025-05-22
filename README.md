@@ -5,32 +5,29 @@
 
 ---
 
-##  Overview
+## 1. Overview
 
 **QubiFarm** is a mobile farming simulation game that integrates decentralized technologies to offer players true ownership of in-game assets. QubiFarm showcases a real world application of blockchain technology in a highly accessible gaming context, lowering the barrier to entry for non-crypto users while highlighting the power of decentralized systems. The game allows players to manage and grow a digital farm planting crops, raising animals, and trading goods while enabling true digital ownership, decentralized asset trading, and real world data-driven gameplay.
 
 ---
 
-##  Features
+## 2. Scope of the proposal
 
-- **Tokenized Assets:** In-game items such as crops, livestock, and tools are represented as tokens, ensuring player ownership and tradability.
-- **Real-World Data Integration:** Oracles fetch real-time data (e.g., weather conditions) to influence gameplay, adding unpredictability and realism.
-- **Decentralized Marketplace:** Players can trade assets directly with each other, with transactions secured by smart contracts.
+Players grow crops, raise animals, and trade goods on a blockchain-powered marketplace, where every item is tokenized and player-owned. The game evolves with input from its community, making it more than just a farm — it’s a shared world built by the players, for the players. Designed to be lightweight, accessible, and fun, QubiFarm brings digital ownership to life in a familiar, relaxing game experience.
+
+---
+
+## 3. Features
+
+- **Tokenized Assets:** Players have full ownership over the items they earn or create such as crops, tools, animals, and cosmetics. These assets are portable, tradeable, and tied to the player, creating long term engagement and new monetization opportunities through peer to peer exchange.
+- **Decentralized Marketplace:** QubiFarm introduces a decentralized in-game economy where supply and demand are influenced by players, not controlled by the developer. This opens the door to real-value trading and sustainable in game commerce, increasing retention and lifetime player value.
+- **Personalized Farm Building** Players are given tools to fully design and expand their farms, leading to emotional investment in their progress. Customization increases social sharing and creates potential for cosmetic-based revenue models.
 - **Community Governance:** Players participate in decision-making processes, voting on game updates, events, and economic policies.
 - **Cross-Platform Accessibility:** Designed primarily for mobile devices, ensuring broad accessibility and engagement.
 
 ---
 
-##  Technology Stack
-
-- **Frontend:** Flutter (Dart) for cross-platform mobile development.
-- **Backend:** Qubic protocol for smart contracts and oracle integration.
-- **Database:** IPFS for decentralized storage of game assets and metadata.
-- **Authentication:** Wallet-based login systems ensuring secure and decentralized user authentication.
-
----
-
-##  Roadmap
+## 4. Roadmap
 
 | Phase | Timeline | Milestones |
 |-------|----------|------------|
@@ -41,16 +38,14 @@
 
 ---
 
-##  Team
+## 5. Team
 
-- **Game Designer:** [Name] – Expertise in casual game mechanics and user engagement strategies.
-- **Blockchain Developer:** [Name] – Experience with Qubic protocol and smart contract development.
-- **Mobile Developer:** [Name] – Proficient in Flutter and cross-platform mobile app development.
-- **Community Manager:** [Name] – Skilled in building and managing gaming communities.
+- **Game Developer:** [Saffet_Oralet] – Expertise in casual game mechanics and user engagement strategies.
+- **2D Artist:** [Meryem_Oralet] –  Responsible for the art. Skilled in building and managing gaming communities.
 
 ---
 
-##  Funding & Sustainability
+## 6. Funding & Sustainability
 
 To ensure the successful development and longevity of QubiFarm, we seek funding to cover:
 
@@ -63,9 +58,6 @@ Revenue streams include in-game purchases, transaction fees from the marketplace
 
 ---
 
-##  License
-
-[MIT License](LICENSE)
 
 ---
 
