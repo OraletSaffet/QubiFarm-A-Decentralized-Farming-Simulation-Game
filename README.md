@@ -17,6 +17,23 @@ Players grow crops, raise animals, and trade goods on a blockchain-powered marke
 
 ---
 
+## Technical Development
+
+The technical development of QubiFarm will focus on building a performant, modular, and scalable mobile game integrated with Qubic’s decentralized infrastructure. The scope is broken into four primary phases, covering both the gameplay and blockchain components.
+
+- Mobile Game Core
+    Game Engine: Developed using Godot, optimized for Android, iOS and Web.
+
+    **Gameplay Systems**:
+
+    - Crop planting, harvesting, and growth timers
+    - Animal care and product generation
+    - Resource management (coins, energy, inventory)
+    - Farm building, decoration, and expansion
+    UI/UX Design: Simple, intuitive touch-first interface designed for casual play and low-spec devices.
+
+---
+
 ## 3. Features
 
 - **Tokenized Assets:** Players have full ownership over the items they earn or create such as crops, tools, animals, and cosmetics. These assets are portable, tradeable, and tied to the player, creating long term engagement and new monetization opportunities through peer to peer exchange.
