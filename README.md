@@ -23,11 +23,11 @@ The technical development of QubiFarm will focus on building a performant, modul
 
 ###  3.1 Mobile Game Core
 
-- **Game Engine**: Developed using **Flutter** or **Godot** (for 2D farming mechanics), optimized for Android and iOS.
+- **Game Engine**: Developed using **Godot** (for 2D farming mechanics), optimized for Android, IOS and Web.
 - **Gameplay Systems**:
   - Crop planting, harvesting, and timed growth cycles
   - Animal care and product generation
-  - Resource systems (coins, energy, inventory)
+  - Resource systems (coins, inventory)
   - Farm building, decoration, and land expansion
 - **UI/UX Design**: Touch-optimized, minimal interface for casual play and low-spec devices.
 
@@ -48,8 +48,6 @@ The technical development of QubiFarm will focus on building a performant, modul
 
 - **Lightweight Server Layer**:
   - Handles matchmaking, market syncing, and seasonal event data
-- **Offline Support**:
-  - Game runs offline with automatic sync on reconnection
 - **Data Sync**:
   - Player progress saved across sessions via Qubic + optional cloud fallback
 - **Analytics (Opt-in)**:
