@@ -63,4 +63,4 @@ Revenue streams include in-game purchases, transaction fees from the marketplace
 
 ##  Contact
 
-For more information or to contribute to the project, please contact [Your Contact Information].
+For more information or to contribute to the project, please contact 
