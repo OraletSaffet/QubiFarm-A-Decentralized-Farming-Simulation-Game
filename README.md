@@ -1,7 +1,7 @@
 # QubiFarm-A-Decentralized-Farming-Simulation-Game
 **Version:** 1.0  
 **Last Updated:** May 21, 2025  
-**Lead Developer:** [Your Name]
+**Lead Developer:** Saffet Oz
 
 ---
 
