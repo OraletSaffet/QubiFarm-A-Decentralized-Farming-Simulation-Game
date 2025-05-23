@@ -17,24 +17,57 @@ Players grow crops, raise animals, and trade goods on a blockchain-powered marke
 
 ---
 
-## Technical Development
+## 3. Technical Development
 
 The technical development of QubiFarm will focus on building a performant, modular, and scalable mobile game integrated with Qubic’s decentralized infrastructure. The scope is broken into four primary phases, covering both the gameplay and blockchain components.
 
-- Mobile Game Core
-    Game Engine: Developed using Godot, optimized for Android, iOS and Web.
+###  3.1 Mobile Game Core
 
-    **Gameplay Systems**:
+- **Game Engine**: Developed using **Flutter** or **Godot** (for 2D farming mechanics), optimized for Android and iOS.
+- **Gameplay Systems**:
+  - Crop planting, harvesting, and timed growth cycles
+  - Animal care and product generation
+  - Resource systems (coins, energy, inventory)
+  - Farm building, decoration, and land expansion
+- **UI/UX Design**: Touch-optimized, minimal interface for casual play and low-spec devices.
 
-    - Crop planting, harvesting, and growth timers
-    - Animal care and product generation
-    - Resource management (coins, energy, inventory)
-    - Farm building, decoration, and expansion
-    UI/UX Design: Simple, intuitive touch-first interface designed for casual play and low-spec devices.
 
+###  3.2 Decentralized Integration (Qubic)
+
+- **Identity Layer**:
+  - Integration with **Qubic’s digital identity** for secure login and cross-device continuity
+- **Asset Ownership**:
+  - Items (e.g., crops, tools, land) linked to player-controlled records using Qubic
+- **Transparency & Data Persistence**:
+  - Publicly verifiable player data (achievements, assets, etc.)
+- **Player Marketplace**:
+  - Listing, searching, and trading of in-game items using Qubic-powered infrastructure
+
+
+###  3.3 Backend & Infrastructure
+
+- **Lightweight Server Layer**:
+  - Handles matchmaking, market syncing, and seasonal event data
+- **Offline Support**:
+  - Game runs offline with automatic sync on reconnection
+- **Data Sync**:
+  - Player progress saved across sessions via Qubic + optional cloud fallback
+- **Analytics (Opt-in)**:
+  - Telemetry for gameplay balancing and engagement analysis
+
+
+###  3.4 DevOps & Testing
+
+- **CI/CD Pipeline**:
+  - Automated builds and deployment for Android and iOS
+  - Beta testing distribution via Firebase or TestFlight
+- **Testing Suite**:
+  - Unit tests for gameplay
+  - Integration tests for blockchain sync logic
+  - QA testing through staged releases and player feedback
 ---
 
-## 3. Features
+## 4. Features
 
 - **Tokenized Assets:** Players have full ownership over the items they earn or create such as crops, tools, animals, and cosmetics. These assets are portable, tradeable, and tied to the player, creating long term engagement and new monetization opportunities through peer to peer exchange.
 - **Decentralized Marketplace:** QubiFarm introduces a decentralized in-game economy where supply and demand are influenced by players, not controlled by the developer. This opens the door to real-value trading and sustainable in game commerce, increasing retention and lifetime player value.
@@ -44,7 +77,7 @@ The technical development of QubiFarm will focus on building a performant, modul
 
 ---
 
-## 4. Roadmap
+## 5. Roadmap
 
 | Phase | Timeline | Milestones |
 |-------|----------|------------|
@@ -55,14 +88,14 @@ The technical development of QubiFarm will focus on building a performant, modul
 
 ---
 
-## 5. Team
+## 6. Team
 
 - **Game Developer:** [Saffet_Oralet] – Expertise in casual game mechanics and user engagement strategies.
 - **2D Artist:** [Meryem_Oralet] –  Responsible for the art. Skilled in building and managing gaming communities.
 
 ---
 
-## 6. Funding & Sustainability
+## 7. Funding & Sustainability
 
 To ensure the successful development and longevity of QubiFarm, we seek funding to cover:
 
@@ -76,7 +109,6 @@ Revenue streams include in-game purchases, transaction fees from the marketplace
 ---
 
 
----
 
 ##  Contact
 
