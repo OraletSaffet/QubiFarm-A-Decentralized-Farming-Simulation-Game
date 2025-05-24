@@ -72,10 +72,53 @@ The technical development of QubiFarm will focus on building a performant, modul
 - **Personalized Farm Building** Players are given tools to fully design and expand their farms, leading to emotional investment in their progress. Customization increases social sharing and creates potential for cosmetic-based revenue models.
 - **Community Governance:** Players participate in decision-making processes, voting on game updates, events, and economic policies.
 - **Cross-Platform Accessibility:** Designed primarily for mobile devices, ensuring broad accessibility and engagement.
+  
+---
+
+## 5. Monetization Strategy
+
+QubiFarm introduces a value-aligned monetization model based on digital ownership and real-world utility, using Qubic to tokenize in-game assets and enable direct player-to-player economic activity.
 
 ---
 
-## 5. Roadmap
+### 5.1 Tokenized In-Game Assets
+
+- All key in-game items (e.g., crops, tools, livestock, decorations) are tokenized and tied to the player’s identity on the Qubic protocol.
+- These tokens represent real ownership and can be exchanged or transferred between players.
+
+---
+
+### 5.2 Player-to-Player Trading with Real Value
+
+- QubiFarm features a decentralized marketplace where players can list and trade tokenized assets with others using Qubic-compatible tokens.
+- Pricing is set by supply, demand, and player preference — allowing an open economy powered by real-world value.
+
+---
+
+### 5.3 Crafting and Value Creation
+
+- Players who invest time and strategy into producing rare or high-demand items can earn real value by selling them on the in-game market.
+- This model promotes a play-to-own approach, where effort and creativity translate into tangible rewards.
+
+---
+
+### 5.4 Marketplace Transaction Fees
+
+- A small transaction fee is applied to marketplace trades.
+- This serves as the project’s main revenue source and sustains further development, infrastructure, and live support.
+
+---
+
+### 5.5 Optional Premium Content
+
+- Future expansions or exclusive cosmetic content may be offered as optional purchases using real value or Qubic-native tokens.
+- These offerings are designed to remain non-intrusive and preserve gameplay balance.
+
+
+QubiFarm’s monetization model is built to empower players, not exploit them — prioritizing fair value exchange, digital ownership, and long-term engagement through a sustainable decentralized economy.
+
+
+## . Roadmap
 
 | Phase | Timeline | Milestones |
 |-------|----------|------------|
@@ -86,14 +129,14 @@ The technical development of QubiFarm will focus on building a performant, modul
 
 ---
 
-## 6. Team
+## . Team
 
 - **Game Developer:** [Saffet_Oralet] – Expertise in casual game mechanics and user engagement strategies.
 - **2D Artist:** [Meryem_Oralet] –  Responsible for the art. Skilled in building and managing gaming communities.
 
 ---
 
-## 7. Funding & Sustainability
+## . Funding & Sustainability
 
 To ensure the successful development and longevity of QubiFarm, we seek funding to cover:
 
@@ -110,4 +153,4 @@ Revenue streams include in-game purchases, transaction fees from the marketplace
 
 ##  Contact
 
-For more information or to contribute to the project, please contact 
+For more information or to contribute to the project, please contact oraletsaffet on Discord
