@@ -115,6 +115,55 @@ QubiFarm’s monetization model is built to empower players, not exploit them �
 
 ---
 
+## 6. Marketing and Communication Strategy
+
+QubiFarm will implement a community-first, digital-native marketing strategy focused on organic growth, content-driven engagement, and strong alignment with Qubic’s ecosystem values.
+
+
+### 6.1 Target Audience
+
+- Mobile gamers who enjoy casual farming, simulation, and management games
+- Players interested in digital ownership and decentralized economies
+- Web3-curious users from Qubic, crypto, and open-source communities
+- Emerging markets with high mobile usage and interest in alternative economies
+
+
+### 6.2 Digital-First Marketing Channels
+
+- **Social Media Campaigns**: Active presence on Twitter/X, TikTok, and Instagram to showcase development updates, gameplay clips, and community events.
+- **Qubic Ecosystem Promotion**: Featured on Qubic's community channels, forums, and events as a showcase of real-world gaming utility.
+- **Content Marketing**:
+  - Developer blogs and behind-the-scenes devlogs
+  - Medium articles covering the design philosophy and technology integration
+  - YouTube/short-form videos highlighting features and community farms
+
+
+### 6.3 Community Building
+
+- **Early Access / Beta Community**: Closed alpha and beta test phases to gather feedback and build loyalty
+- **Discord Server & Forums**: Core hubs for players to share farms, suggest features, report bugs, and vote on seasonal content
+- **Community Voting Events**: Players influence new crops, skins, or gameplay features through in-game and social media polls
+
+
+### 6.4 Partnership and Ecosystem Integration
+
+- **Qubic-native Collaborations**: Partner with other Qubic-based apps or games for cross-promotion, shared events, and technical integrations
+- **Indie & Web3 Gaming Events**: Showcase QubiFarm at online and real-world indie showcases, game jams, and blockchain gaming expos
+- **Localized Campaigns**: Tailored social campaigns and community manager support for high-potential markets (e.g., LATAM, Southeast Asia)
+
+
+### 6.5 Launch Strategy
+
+- **Soft Launch** in select regions for testing user acquisition and feedback
+- **Global Launch Campaign** with press kit, demo videos, and early supporter incentives
+- **Rewarded Referrals**: Incentivized user growth via invite codes and limited-edition in-game rewards
+
+---
+
+By combining authentic storytelling, strong community engagement, and decentralized ownership principles, QubiFarm aims to become a standout example of how next-gen games can grow through trust, creativity, and real player value.
+
+---
+
 ## . Roadmap
 
 | Phase | Timeline | Milestones |
