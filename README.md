@@ -158,9 +158,16 @@ QubiFarm will implement a community-first, digital-native marketing strategy foc
   - **Global Launch Campaign** with press kit, demo videos, and early supporter incentives
   - **Rewarded Referrals**: Incentivized user growth via invite codes and limited-edition in-game rewards
 
----
 
 By combining authentic storytelling, strong community engagement, and decentralized ownership principles, QubiFarm aims to become a standout example of how next-gen games can grow through trust, creativity, and real player value.
+
+---
+
+## 7. Team
+
+- **Game Developer:** [Saffet_Oralet] – Expertise in casual game mechanics and user engagement strategies.
+- **Blockchain Dev** [Muammer_Oralet] - Expert in SmartContracts and designs, builds, and maintains distributed ledger systems.
+- **2D Artist:** [Meryem_Oralet] –  Responsible for the art. Skilled in building and managing gaming communities.
 
 ---
 
@@ -172,13 +179,6 @@ By combining authentic storytelling, strong community engagement, and decentrali
 | **Phase 2** | Q3 2025 | Prototype development, integration of basic farming mechanics, initial smart contract deployment. |
 | **Phase 3** | Q4 2025 | Oracle integration, marketplace development, beta testing with community feedback. |
 | **Phase 4** | Q1 2026 | Full launch on app stores, marketing campaigns, continuous updates based on community governance. |
-
----
-
-## . Team
-
-- **Game Developer:** [Saffet_Oralet] – Expertise in casual game mechanics and user engagement strategies.
-- **2D Artist:** [Meryem_Oralet] –  Responsible for the art. Skilled in building and managing gaming communities.
 
 ---
 
