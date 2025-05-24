@@ -63,6 +63,7 @@ The technical development of QubiFarm will focus on building a performant, modul
   - Unit tests for gameplay
   - Integration tests for blockchain sync logic
   - QA testing through staged releases and player feedback
+  
 ---
 
 ## 4. Features
@@ -79,35 +80,30 @@ The technical development of QubiFarm will focus on building a performant, modul
 
 QubiFarm introduces a value-aligned monetization model based on digital ownership and real-world utility, using Qubic to tokenize in-game assets and enable direct player-to-player economic activity.
 
----
 
 ### 5.1 Tokenized In-Game Assets
 
 - All key in-game items (e.g., crops, tools, livestock, decorations) are tokenized and tied to the player’s identity on the Qubic protocol.
 - These tokens represent real ownership and can be exchanged or transferred between players.
 
----
 
 ### 5.2 Player-to-Player Trading with Real Value
 
 - QubiFarm features a decentralized marketplace where players can list and trade tokenized assets with others using Qubic-compatible tokens.
 - Pricing is set by supply, demand, and player preference — allowing an open economy powered by real-world value.
 
----
 
 ### 5.3 Crafting and Value Creation
 
 - Players who invest time and strategy into producing rare or high-demand items can earn real value by selling them on the in-game market.
 - This model promotes a play-to-own approach, where effort and creativity translate into tangible rewards.
 
----
 
 ### 5.4 Marketplace Transaction Fees
 
 - A small transaction fee is applied to marketplace trades.
 - This serves as the project’s main revenue source and sustains further development, infrastructure, and live support.
 
----
 
 ### 5.5 Optional Premium Content
 
@@ -117,6 +113,7 @@ QubiFarm introduces a value-aligned monetization model based on digital ownershi
 
 QubiFarm’s monetization model is built to empower players, not exploit them — prioritizing fair value exchange, digital ownership, and long-term engagement through a sustainable decentralized economy.
 
+---
 
 ## . Roadmap
 
