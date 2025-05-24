@@ -83,32 +83,32 @@ QubiFarm introduces a value-aligned monetization model based on digital ownershi
 
 ### 5.1 Tokenized In-Game Assets
 
-- All key in-game items (e.g., crops, tools, livestock, decorations) are tokenized and tied to the player’s identity on the Qubic protocol.
-- These tokens represent real ownership and can be exchanged or transferred between players.
+  - All key in-game items (e.g., crops, tools, livestock, decorations) are tokenized and tied to the player’s identity on the Qubic protocol.
+  - These tokens represent real ownership and can be exchanged or transferred between players.
 
 
 ### 5.2 Player-to-Player Trading with Real Value
 
-- QubiFarm features a decentralized marketplace where players can list and trade tokenized assets with others using Qubic-compatible tokens.
-- Pricing is set by supply, demand, and player preference — allowing an open economy powered by real-world value.
+  - QubiFarm features a decentralized marketplace where players can list and trade tokenized assets with others using Qubic-compatible tokens.
+  - Pricing is set by supply, demand, and player preference — allowing an open economy powered by real-world value.
 
 
 ### 5.3 Crafting and Value Creation
 
-- Players who invest time and strategy into producing rare or high-demand items can earn real value by selling them on the in-game market.
-- This model promotes a play-to-own approach, where effort and creativity translate into tangible rewards.
+  - Players who invest time and strategy into producing rare or high-demand items can earn real value by selling them on the in-game market.
+  - This model promotes a play-to-own approach, where effort and creativity translate into tangible rewards.
 
 
 ### 5.4 Marketplace Transaction Fees
 
-- A small transaction fee is applied to marketplace trades.
-- This serves as the project’s main revenue source and sustains further development, infrastructure, and live support.
+  - A small transaction fee is applied to marketplace trades.
+  - This serves as the project’s main revenue source and sustains further development, infrastructure, and live support.
 
 
 ### 5.5 Optional Premium Content
 
-- Future expansions or exclusive cosmetic content may be offered as optional purchases using real value or Qubic-native tokens.
-- These offerings are designed to remain non-intrusive and preserve gameplay balance.
+  - Future expansions or exclusive cosmetic content may be offered as optional purchases using real value or Qubic-native tokens.
+  - These offerings are designed to remain non-intrusive and preserve gameplay balance.
 
 
 QubiFarm’s monetization model is built to empower players, not exploit them — prioritizing fair value exchange, digital ownership, and long-term engagement through a sustainable decentralized economy.
@@ -122,41 +122,41 @@ QubiFarm will implement a community-first, digital-native marketing strategy foc
 
 ### 6.1 Target Audience
 
-- Mobile gamers who enjoy casual farming, simulation, and management games
-- Players interested in digital ownership and decentralized economies
-- Web3-curious users from Qubic, crypto, and open-source communities
-- Emerging markets with high mobile usage and interest in alternative economies
+  - Mobile gamers who enjoy casual farming, simulation, and management games
+  - Players interested in digital ownership and decentralized economies
+  - Web3-curious users from Qubic, crypto, and open-source communities
+  - Emerging markets with high mobile usage and interest in alternative economies
 
 
 ### 6.2 Digital-First Marketing Channels
 
-- **Social Media Campaigns**: Active presence on Twitter/X, TikTok, and Instagram to showcase development updates, gameplay clips, and community events.
-- **Qubic Ecosystem Promotion**: Featured on Qubic's community channels, forums, and events as a showcase of real-world gaming utility.
-- **Content Marketing**:
-  - Developer blogs and behind-the-scenes devlogs
-  - Medium articles covering the design philosophy and technology integration
-  - YouTube/short-form videos highlighting features and community farms
+  - **Social Media Campaigns**: Active presence on Twitter/X, TikTok, and Instagram to showcase development updates, gameplay clips, and community events.
+  - **Qubic Ecosystem Promotion**: Featured on Qubic's community channels, forums, and events as a showcase of real-world gaming utility.
+  - **Content Marketing**:
+    - Developer blogs and behind-the-scenes devlogs
+    - Medium articles covering the design philosophy and technology integration
+    - YouTube/short-form videos highlighting features and community farms
 
 
 ### 6.3 Community Building
 
-- **Early Access / Beta Community**: Closed alpha and beta test phases to gather feedback and build loyalty
-- **Discord Server & Forums**: Core hubs for players to share farms, suggest features, report bugs, and vote on seasonal content
-- **Community Voting Events**: Players influence new crops, skins, or gameplay features through in-game and social media polls
+  - **Early Access / Beta Community**: Closed alpha and beta test phases to gather feedback and build loyalty
+  - **Discord Server & Forums**: Core hubs for players to share farms, suggest features, report bugs, and vote on seasonal content
+  - **Community Voting Events**: Players influence new crops, skins, or gameplay features through in-game and social media polls
 
 
 ### 6.4 Partnership and Ecosystem Integration
 
-- **Qubic-native Collaborations**: Partner with other Qubic-based apps or games for cross-promotion, shared events, and technical integrations
-- **Indie & Web3 Gaming Events**: Showcase QubiFarm at online and real-world indie showcases, game jams, and blockchain gaming expos
-- **Localized Campaigns**: Tailored social campaigns and community manager support for high-potential markets (e.g., LATAM, Southeast Asia)
+  - **Qubic-native Collaborations**: Partner with other Qubic-based apps or games for cross-promotion, shared events, and technical integrations
+  - **Indie & Web3 Gaming Events**: Showcase QubiFarm at online and real-world indie showcases, game jams, and blockchain gaming expos
+  - **Localized Campaigns**: Tailored social campaigns and community manager support for high-potential markets (e.g., LATAM, Southeast Asia)
 
 
 ### 6.5 Launch Strategy
 
-- **Soft Launch** in select regions for testing user acquisition and feedback
-- **Global Launch Campaign** with press kit, demo videos, and early supporter incentives
-- **Rewarded Referrals**: Incentivized user growth via invite codes and limited-edition in-game rewards
+  - **Soft Launch** in select regions for testing user acquisition and feedback
+  - **Global Launch Campaign** with press kit, demo videos, and early supporter incentives
+  - **Rewarded Referrals**: Incentivized user growth via invite codes and limited-edition in-game rewards
 
 ---
 
