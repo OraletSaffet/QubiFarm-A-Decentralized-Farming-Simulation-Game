@@ -215,7 +215,7 @@ By combining authentic storytelling, strong community engagement, and decentrali
 
 This project will be completed in six major milestones over the course of 8 months. The following table outlines the proposed payment distribution aligned with development progress and deliverables.
 
-###  Milestone-Based Breakdown
+  **Milestone-Based Breakdown**
 
 | Stage | Description | Duration | Payment (€) | Timeline |
 |-------|-------------|----------|-------------|----------|
