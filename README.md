@@ -219,12 +219,12 @@ This project will be completed in six major milestones over the course of 8 mont
 
 | Stage | Description | Duration | Payment (€) | Timeline |
 |-------|-------------|----------|-------------|----------|
-| **Kickoff** | Project initiation | – | **€2,200** | Week 1 |
+| **Kickoff** | Project initiation | 1 Week | **€2,200** | Week 1 |
 | **Milestone 1** | Foundation & Prototyping | 1 month | **€4,300** | Month 1 |
-| **Milestone 2** | Core Gameplay Systems | 1.5 months | **€5,300** | Month 2–3 |
-| **Milestone 3** | Marketplace & Cosmetic Economy | 1.5 months | **€4,750** | Month 3–4 |
-| **Milestone 4** | Content Expansion & UX Polish | 1.5 months | **€4,400** | Month 5–6 |
-| **Milestone 5** | Qubic Blockchain Integration | 1.5 months | **€3,050** | Month 6–7 |
+| **Milestone 2** | Core Gameplay Systems | 2 months | **€5,300** | Month 2–3 |
+| **Milestone 3** | Marketplace & Cosmetic Economy | 1 months | **€4,750** | Month 3–4 |
+| **Milestone 4** | Content Expansion & UX Polish | 1 months | **€4,400** | Month 5–6 |
+| **Milestone 5** | Qubic Blockchain Integration | 2 months | **€3,050** | Month 6–7 |
 | **Milestone 6** | MVP Launch & Community Activation | 1 month | **€3,500** | Month 8 |
 
 
