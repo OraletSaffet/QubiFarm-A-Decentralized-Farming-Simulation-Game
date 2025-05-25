@@ -163,22 +163,90 @@ By combining authentic storytelling, strong community engagement, and decentrali
 
 ---
 
-## 7. Team
+## 7. Project Plan and Milestones
+
+###  Milestone 1 – Foundation & Prototyping
+- Define core game mechanics and resource systems
+- Build gameplay prototype (planting, harvesting, crop growth)
+- Set up placeholder UI and temporary asset packs
+- Plan technical architecture for future tokenization and decentralized syncing
+
+
+###  Milestone 2 – Core Gameplay Systems
+- Develop full farming loop: crops, animals, buildings, and inventory
+- Implement energy system, player progression, and soft economy
+- Design responsive UI optimized for mobile gameplay
+- Establish save/load system for persistent farm state
+
+
+###  Milestone 3 – Marketplace & Cosmetic Economy
+- Introduce cosmetic customization: skins, decorations, visual themes
+- Develop in-game marketplace framework for item listing and discovery
+- Integrate a reward system tied to farm progression and user engagement
+- Conduct closed alpha with limited player feedback loop
+
+
+###  Milestone 4 – Content Expansion & UX Polish
+- Add new gameplay content (rare crops, farm tools, expansion tiles)
+- Polish UX: animations, transitions, sounds, and mobile-friendly controls
+- Launch open beta for wider testing and performance optimization
+- Prepare economy model and metadata structure for token deployment
+
+
+###  Milestone 5 – Qubic Blockchain Integration
+- Tokenize in-game assets (tools, land, decorations) using Qubic
+- Implement ownership logic tied to Qubic digital identity
+- Deploy decentralized in-game marketplace powered by Qubic
+- Enable peer-to-peer trading with real-world value mechanics
+
+
+###  Milestone 6 – MVP Launch & Community Activation
+- Launch QubiFarm MVP on Android platforms (Play Store & .apk)
+- Activate Qubic-powered player economy with live tokens and trading
+- Host the first seasonal farming event with real-value incentives
+- Initiate live ops, support channels, and public development roadmap
+
+
+---
+
+## 8. Payment Structure
+
+##  Payment Structure – €27,500 over 8 Months
+
+This project will be completed in six major milestones over the course of 8 months. The following table outlines the proposed payment distribution aligned with development progress and deliverables.
+
+###  Milestone-Based Breakdown
+
+| Milestone | Description | Duration | % of Total | Payment (€) | Timeline |
+|----------|-------------|----------|------------|-------------|----------|
+| **Milestone 1** | Foundation & Prototyping | 1 month | 15% | **€4,125** | Month 1 |
+| **Milestone 2** | Core Gameplay Systems | 1.5 months | 20% | **€5,500** | Month 2–3 |
+| **Milestone 3** | Marketplace & Cosmetic Economy | 1.5 months | 18% | **€4,950** | Month 3–4 |
+| **Milestone 4** | Content Expansion & UX Polish | 1.5 months | 17% | **€4,675** | Month 5–6 |
+| **Milestone 5** | Qubic Blockchain Integration | 1.5 months | 15% | **€4,125** | Month 6–7 |
+| **Milestone 6** | MVP Launch & Community Activation | 1 month | 15% | **€4,125** | Month 8 |
+
+###  Monthly Payment Schedule
+
+| Month | Payment (€) | Notes |
+|-------|-------------|-------|
+| **Month 1** | €4,125 | Start of project – Milestone 1 |
+| **Month 2** | €2,750 | Part of Milestone 2 |
+| **Month 3** | €2,750 | Complete Milestone 2, start Milestone 3 |
+| **Month 4** | €2,475 | Complete Milestone 3 |
+| **Month 5** | €2,337.50 | Part of Milestone 4 |
+| **Month 6** | €2,337.50 | Complete Milestone 4 |
+| **Month 7** | €4,125 | Milestone 5 |
+| **Month 8** | €4,125 | Final delivery – Milestone 6 |
+
+
+---
+
+## . Team
 
 - **Game Developer:** [Saffet_Oralet] – Expertise in casual game mechanics and user engagement strategies.
 - **Blockchain Dev** [Muammer_Oralet] - Expert in SmartContracts and designs, builds, and maintains distributed ledger systems.
 - **2D Artist:** [Meryem_Oralet] –  Responsible for the art. Skilled in building and managing gaming communities.
-
----
-
-## . Roadmap
-
-| Phase | Timeline | Milestones |
-|-------|----------|------------|
-| **Phase 1** | Q2 2025 | Concept development, team assembly, initial design drafts. |
-| **Phase 2** | Q3 2025 | Prototype development, integration of basic farming mechanics, initial smart contract deployment. |
-| **Phase 3** | Q4 2025 | Oracle integration, marketplace development, beta testing with community feedback. |
-| **Phase 4** | Q1 2026 | Full launch on app stores, marketing campaigns, continuous updates based on community governance. |
 
 ---
 
