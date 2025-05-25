@@ -211,7 +211,7 @@ By combining authentic storytelling, strong community engagement, and decentrali
 
 ## 8. Payment Structure
 
-##  Payment Structure – €27,500 over 8 Months
+ **Payment Structure – €27,500 over 8 Months**
 
 This project will be completed in six major milestones over the course of 8 months. The following table outlines the proposed payment distribution aligned with development progress and deliverables.
 
