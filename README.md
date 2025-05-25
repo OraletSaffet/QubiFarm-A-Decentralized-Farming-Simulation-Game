@@ -217,49 +217,24 @@ This project will be completed in six major milestones over the course of 8 mont
 
 ###  Milestone-Based Breakdown
 
-| Milestone | Description | Duration | % of Total | Payment (€) | Timeline |
-|----------|-------------|----------|------------|-------------|----------|
-| **Milestone 1** | Foundation & Prototyping | 1 month | 15% | **€4,125** | Month 1 |
-| **Milestone 2** | Core Gameplay Systems | 1.5 months | 20% | **€5,500** | Month 2–3 |
-| **Milestone 3** | Marketplace & Cosmetic Economy | 1.5 months | 18% | **€4,950** | Month 3–4 |
-| **Milestone 4** | Content Expansion & UX Polish | 1.5 months | 17% | **€4,675** | Month 5–6 |
-| **Milestone 5** | Qubic Blockchain Integration | 1.5 months | 15% | **€4,125** | Month 6–7 |
-| **Milestone 6** | MVP Launch & Community Activation | 1 month | 15% | **€4,125** | Month 8 |
-
-###  Monthly Payment Schedule
-
-| Month | Payment (€) | Notes |
-|-------|-------------|-------|
-| **Month 1** | €4,125 | Start of project – Milestone 1 |
-| **Month 2** | €2,750 | Part of Milestone 2 |
-| **Month 3** | €2,750 | Complete Milestone 2, start Milestone 3 |
-| **Month 4** | €2,475 | Complete Milestone 3 |
-| **Month 5** | €2,337.50 | Part of Milestone 4 |
-| **Month 6** | €2,337.50 | Complete Milestone 4 |
-| **Month 7** | €4,125 | Milestone 5 |
-| **Month 8** | €4,125 | Final delivery – Milestone 6 |
+| Stage | Description | Duration | Payment (€) | Timeline |
+|-------|-------------|----------|-------------|----------|
+| **Kickoff** | Project initiation | – | **€2,200** | Week 1 |
+| **Milestone 1** | Foundation & Prototyping | 1 month | **€4,300** | Month 1 |
+| **Milestone 2** | Core Gameplay Systems | 1.5 months | **€5,300** | Month 2–3 |
+| **Milestone 3** | Marketplace & Cosmetic Economy | 1.5 months | **€4,750** | Month 3–4 |
+| **Milestone 4** | Content Expansion & UX Polish | 1.5 months | **€4,400** | Month 5–6 |
+| **Milestone 5** | Qubic Blockchain Integration | 1.5 months | **€3,050** | Month 6–7 |
+| **Milestone 6** | MVP Launch & Community Activation | 1 month | **€3,500** | Month 8 |
 
 
 ---
 
-## . Team
+## 9. Team
 
 - **Game Developer:** [Saffet_Oralet] – Expertise in casual game mechanics and user engagement strategies.
 - **Blockchain Dev** [Muammer_Oralet] - Expert in SmartContracts and designs, builds, and maintains distributed ledger systems.
 - **2D Artist:** [Meryem_Oralet] –  Responsible for the art. Skilled in building and managing gaming communities.
-
----
-
-## . Funding & Sustainability
-
-To ensure the successful development and longevity of QubiFarm, we seek funding to cover:
-
-- Development costs (design, programming, testing).
-- Infrastructure expenses (servers, storage).
-- Marketing and community engagement initiatives.
-- Continuous updates and feature enhancements post-launch.
-
-Revenue streams include in-game purchases, transaction fees from the marketplace, and potential partnerships with brands for in-game events.
 
 ---
 
